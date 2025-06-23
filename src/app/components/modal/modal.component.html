@@ -1,0 +1,9 @@
+<div class="fixed-overlay">
+  <div class="modal">
+    <div class="modal_container">
+      <button type="button" class="modal__btn-close" (click)="closeModal()" >X</button>
+      <sa-spinner-diamond *ngIf="isShowSpinner$ | async"></sa-spinner-diamond>
+      <h6 class="modal__text" >{{message | async}}</h6>
+    </div>
+  </div>
+</div>
