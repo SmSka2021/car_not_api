@@ -1,4 +1,4 @@
-# CarApp - my Angular project version 14.2.3. // This project has backend request (ReactiveFormsModule, HTTPClientModule)
+# CarApp - my Angular project version 14.2.3. // This project has not backend request (ReactiveFormsModule, HTTPClientModule)
 ## deploy: https://smska2021.github.io/cars-hw/
 
 ## Development server
