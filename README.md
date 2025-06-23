@@ -1,5 +1,5 @@
 # CarApp - my Angular project version 14.2.3. // This project has not backend request (ReactiveFormsModule, HTTPClientModule)
-## deploy: https://smska2021.github.io/cars-hw/
+## deploy: https://smska2021.github.io/car_not_api/
 
 ## Development server
 1) npm install
